@@ -1,3 +1,10 @@
+# Tasks
+The assignments were completed as part of the Full stack developer (GOIT) courses. <br>
+<b>Name:</b> Tasks<br>
+<b>Technologies:</b> TypesScript
+
+
+
 # Завдання 1
 
 У вас є компонент React, який використовує useRef та IntersectionObserver для визначення, коли користувач переглядає кінець вмісту. Ваше завдання полягає в наступному:
